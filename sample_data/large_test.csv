@@ -1,0 +1,221 @@
+type,id,name,expertise_or_interests
+mentor,1,John Smith,Product strategy, User experience design, Agile methodologies
+mentor,2,Emily Johnson,Market research, Product roadmapping, Stakeholder management
+mentor,3,Michael Chen,Product lifecycle management, A/B testing, Data-driven decision making
+mentor,4,Sarah Brown,User story mapping, Product analytics, Competitive analysis
+mentor,5,David Lee,Product launch strategies, Cross-functional team leadership, Scrum
+mentor,6,Lisa Wang,Customer journey mapping, Product positioning, Lean startup methodology
+mentor,7,Robert Taylor,Feature prioritization, Product metrics, Wireframing and prototyping
+mentor,8,Amanda Garcia,Product vision and strategy, User interviews, Product-market fit
+mentor,9,Kevin Patel,Agile product management, OKRs, Product backlog management
+mentor,10,Rachel Kim,Design thinking, Product growth strategies, User onboarding
+mentor,11,Thomas Wilson,Product development lifecycle, Requirements gathering, Agile sprint planning
+mentor,12,Natalie Rodriguez,User research, Persona creation, Information architecture
+mentor,13,Christopher Lee,Product pricing strategies, Go-to-market planning, Business model canvas
+mentor,14,Olivia Martinez,Product KPIs, Data analysis, Growth hacking
+mentor,15,Daniel Wong,Technical product management, API product management, DevOps practices
+mentor,16,Sophia Anderson,Product marketing, Brand management, Customer segmentation
+mentor,17,Ethan Brown,Agile frameworks (Scrum, Kanban), Release planning, Continuous integration
+mentor,18,Isabella Chen,UX/UI design principles, Usability testing, Interaction design
+mentor,19,Ryan Garcia,Product forecasting, Financial modeling for products, ROI analysis
+mentor,20,Emma Davis,Agile at scale, SAFe framework, Portfolio management
+mentor,21,William Nguyen,Product localization, International product strategy, Cultural adaptation
+mentor,22,Ava Wilson,Customer feedback loops, NPS, Customer satisfaction metrics
+mentor,23,Noah Thompson,Product security, Compliance requirements, Risk management
+mentor,24,Mia Anderson,Lean product development, MVP definition, Hypothesis-driven development
+mentor,25,James Rodriguez,Product analytics tools, Behavioral analytics, Funnel analysis
+mentor,26,Charlotte Taylor,Enterprise product management, B2B product strategy, Account-based marketing
+mentor,27,Benjamin Kim,Mobile app product management, App store optimization, Mobile UX design
+mentor,28,Amelia Clark,Hardware product management, IoT product development, Manufacturing processes
+mentor,29,Samuel Patel,SaaS product management, Subscription models, Customer retention strategies
+mentor,30,Evelyn Wright,Artificial intelligence in products, Machine learning integration, Ethical AI
+mentor,31,Christopher Lee,Blockchain product management, Tokenomics, Decentralized applications
+mentor,32,Grace Harris,Voice user interface design, Conversational AI products, Natural language processing
+mentor,33,Andrew Jackson,Product accessibility, Inclusive design, Web Content Accessibility Guidelines
+mentor,34,Zoe Campbell,Gamification in products, User engagement strategies, Behavioral psychology
+mentor,35,Joseph Martin,Open-source product management, Community-driven development, Contributor management
+mentor,36,Lily Thompson,E-commerce product management, Conversion rate optimization, Shopping cart analytics
+mentor,37,Matthew Davis,Fintech product management, Financial regulations, Payment systems integration
+mentor,38,Chloe Rodriguez,Healthcare product management, HIPAA compliance, Electronic health records
+mentor,39,David Wilson,Education technology product management, Learning management systems, EdTech trends
+mentor,40,Victoria Nguyen,Enterprise resource planning (ERP) products, Supply chain management, Inventory systems
+mentor,41,Thomas Anderson,Customer relationship management (CRM) products, Sales enablement, Lead scoring
+mentor,42,Penelope Kim,Content management systems (CMS), Digital asset management, Headless CMS architecture
+mentor,43,Ethan Wright,Cloud-based products, Multi-tenant architecture, Scalability planning
+mentor,44,Sophia Garcia,Marketplace product management, Two-sided platforms, Network effects
+mentor,45,Lucas Martinez,Augmented reality (AR) products, Computer vision, Spatial computing
+mentor,46,Ava Taylor,Virtual reality (VR) products, Immersive experiences, 3D modeling for VR
+mentor,47,Oliver Thompson,Cybersecurity products, Threat detection, Encryption technologies
+mentor,48,Isabella Patel,Data visualization products, Business intelligence tools, Dashboard design
+mentor,49,Mason Lee,Geolocation-based products, Mapping technologies, Location-based services
+mentor,50,Aria Johnson,Social media products, Viral growth strategies, Content moderation
+mentor,51,Liam Davis,Video streaming products, Content delivery networks, Adaptive bitrate streaming
+mentor,52,Chloe Wilson,Customer data platforms, Data privacy compliance (GDPR, CCPA), Data ethics
+mentor,53,Elijah Brown,Productivity software, Workflow automation, Collaboration tools
+mentor,54,Mila Anderson,Wearable technology products, Fitness tracking, Health monitoring devices
+mentor,55,Noah Martin,Smart home products, Home automation protocols, Energy management systems
+mentor,56,Avery Chen,Music streaming products, Recommendation algorithms, Royalty management
+mentor,57,Evelyn Taylor,Travel technology products, Booking engines, Itinerary management
+mentor,58,Henry Garcia,Sports technology products, Performance analytics, Fan engagement platforms
+mentor,59,Scarlett Wright,Fashion technology products, Virtual try-on, Sustainable fashion tech
+mentor,60,Logan Nguyen,Gaming product management, Monetization strategies, Player retention tactics
+mentee,61,Alex Turner,Interested in product strategy and user experience design
+mentee,62,Olivia Martinez,Wants to learn about market research and product roadmapping
+mentee,63,Daniel Wong,Curious about product lifecycle management and A/B testing
+mentee,64,Sophia Lee,Interested in user story mapping and product analytics
+mentee,65,Ethan Brown,Wants to learn about product launch strategies and cross-functional team leadership
+mentee,66,Isabella Chen,Curious about customer journey mapping and product positioning
+mentee,67,Ryan Garcia,Interested in feature prioritization and product metrics
+mentee,68,Emma Davis,Wants to learn about product vision and strategy
+mentee,69,William Nguyen,Curious about agile product management and OKRs
+mentee,70,Ava Wilson,Interested in design thinking and product growth strategies
+mentee,71,Noah Thompson,Wants to learn about user experience design and agile methodologies
+mentee,72,Mia Anderson,Curious about stakeholder management and competitive analysis
+mentee,73,James Rodriguez,Interested in data-driven decision making and product analytics
+mentee,74,Charlotte Taylor,Wants to learn about scrum and product backlog management
+mentee,75,Benjamin Kim,Curious about lean startup methodology and product-market fit
+mentee,76,Amelia Clark,Interested in wireframing and prototyping
+mentee,77,Samuel Patel,Wants to learn about user interviews and user onboarding
+mentee,78,Evelyn Wright,Curious about product positioning and feature prioritization
+mentee,79,Christopher Lee,Interested in product metrics and competitive analysis
+mentee,80,Grace Harris,Wants to learn about agile product management and product roadmapping
+mentee,81,Andrew Jackson,Curious about product strategy and market research
+mentee,82,Zoe Campbell,Interested in user story mapping and product launch strategies
+mentee,83,Joseph Martin,Wants to learn about cross-functional team leadership and OKRs
+mentee,84,Lily Thompson,Curious about customer journey mapping and product growth strategies
+mentee,85,Matthew Davis,Interested in A/B testing and data-driven decision making
+mentee,86,Chloe Rodriguez,Wants to learn about product vision and strategy
+mentee,87,David Wilson,Curious about design thinking and user experience design
+mentee,88,Victoria Nguyen,Interested in product lifecycle management and agile methodologies
+mentee,89,Thomas Anderson,Wants to learn about stakeholder management and product positioning
+mentee,90,Penelope Kim,Curious about lean startup methodology and product metrics
+mentee,91,Ethan Wright,Interested in product development lifecycle and requirements gathering
+mentee,92,Sophia Garcia,Wants to learn about user research and persona creation
+mentee,93,Lucas Martinez,Curious about product pricing strategies and go-to-market planning
+mentee,94,Ava Taylor,Interested in product KPIs and data analysis
+mentee,95,Oliver Thompson,Wants to learn about technical product management and API product management
+mentee,96,Isabella Patel,Curious about product marketing and brand management
+mentee,97,Mason Lee,Interested in Agile frameworks and release planning
+mentee,98,Aria Johnson,Wants to learn about UX/UI design principles and usability testing
+mentee,99,Liam Davis,Curious about product forecasting and financial modeling for products
+mentee,100,Chloe Wilson,Interested in Agile at scale and portfolio management
+mentee,101,Elijah Brown,Wants to learn about product localization and international product strategy
+mentee,102,Mila Anderson,Curious about customer feedback loops and NPS
+mentee,103,Noah Martin,Interested in product security and compliance requirements
+mentee,104,Avery Chen,Wants to learn about lean product development and MVP definition
+mentee,105,Evelyn Taylor,Curious about product analytics tools and behavioral analytics
+mentee,106,Henry Garcia,Interested in enterprise product management and B2B product strategy
+mentee,107,Scarlett Wright,Wants to learn about mobile app product management and app store optimization
+mentee,108,Logan Nguyen,Curious about hardware product management and IoT product development
+mentee,109,Madison Brown,Interested in SaaS product management and subscription models
+mentee,110,Jackson Lee,Wants to learn about artificial intelligence in products and machine learning integration
+mentee,111,Aria Patel,Curious about blockchain product management and tokenomics
+mentee,112,Caleb Wilson,Interested in voice user interface design and conversational AI products
+mentee,113,Audrey Martinez,Wants to learn about product accessibility and inclusive design
+mentee,114,Leo Thompson,Curious about gamification in products and user engagement strategies
+mentee,115,Hazel Anderson,Interested in open-source product management and community-driven development
+mentee,116,Oscar Davis,Wants to learn about e-commerce product management and conversion rate optimization
+mentee,117,Luna Garcia,Curious about fintech product management and financial regulations
+mentee,118,Miles Chen,Interested in healthcare product management and HIPAA compliance
+mentee,119,Nova Wilson,Wants to learn about education technology product management and learning management systems
+mentee,120,Felix Brown,Curious about enterprise resource planning (ERP) products and supply chain management
+mentee,121,Stella Lee,Interested in customer relationship management (CRM) products and sales enablement
+mentee,122,Silas Nguyen,Wants to learn about content management systems (CMS) and digital asset management
+mentee,123,Violet Taylor,Curious about cloud-based products and multi-tenant architecture
+mentee,124,Jasper Johnson,Interested in marketplace product management and two-sided platforms
+mentee,125,Aurora Martin,Wants to learn about augmented reality (AR) products and computer vision
+mentee,126,Ezra Davis,Curious about virtual reality (VR) products and immersive experiences
+mentee,127,Willow Patel,Interested in cybersecurity products and threat detection
+mentee,128,Atlas Thompson,Wants to learn about data visualization products and business intelligence tools
+mentee,129,Ivy Rodriguez,Curious about geolocation-based products and mapping technologies
+mentee,130,Kai Anderson,Interested in social media products and viral growth strategies
+mentee,131,Zara Wright,Wants to learn about video streaming products and content delivery networks
+mentee,132,Finn Wilson,Curious about customer data platforms and data privacy compliance
+mentee,133,Nova Garcia,Interested in productivity software and workflow automation
+mentee,134,Axel Brown,Wants to learn about wearable technology products and fitness tracking
+mentee,135,Daisy Chen,Curious about smart home products and home automation protocols
+mentee,136,River Lee,Interested in music streaming products and recommendation algorithms
+mentee,137,Iris Martinez,Wants to learn about travel technology products and booking engines
+mentee,138,Arlo Thompson,Curious about sports technology products and performance analytics
+mentee,139,Sage Davis,Interested in fashion technology products and virtual try-on
+mentee,140,Remy Nguyen,Wants to learn about gaming product management and monetization strategies
+mentee,141,Cora Patel,Curious about product strategy and market research
+mentee,142,Bodhi Wilson,Interested in user experience design and agile methodologies
+mentee,143,Lila Anderson,Wants to learn about product lifecycle management and A/B testing
+mentee,144,Zion Brown,Curious about user story mapping and product analytics
+mentee,145,Poppy Garcia,Interested in product launch strategies and cross-functional team leadership
+mentee,146,Nash Lee,Wants to learn about customer journey mapping and product positioning
+mentee,147,Ember Johnson,Curious about feature prioritization and product metrics
+mentee,148,Theo Martin,Interested in product vision and strategy
+mentee,149,Wren Davis,Wants to learn about agile product management and OKRs
+mentee,150,Juniper Taylor,Curious about design thinking and product growth strategies
+mentee,151,Soren Rodriguez,Interested in stakeholder management and competitive analysis
+mentee,152,Athena Thompson,Wants to learn about data-driven decision making and product analytics
+mentee,153,Callum Wilson,Curious about scrum and product backlog management
+mentee,154,Margot Chen,Interested in lean startup methodology and product-market fit
+mentee,155,Lennon Brown,Wants to learn about wireframing and prototyping
+mentee,156,Esme Nguyen,Curious about user interviews and user onboarding
+mentee,157,Otis Patel,Interested in product positioning and feature prioritization
+mentee,158,Simone Lee,Wants to learn about product metrics and competitive analysis
+mentee,159,Nico Anderson,Curious about agile product management and product roadmapping
+mentee,160,Camille Wright,Interested in product development lifecycle and requirements gathering
+mentee,161,Rory Martinez,Wants to learn about user research and persona creation
+mentee,162,Lyra Davis,Curious about product pricing strategies and go-to-market planning
+mentee,163,Flynn Garcia,Interested in product KPIs and data analysis
+mentee,164,Mabel Wilson,Wants to learn about technical product management and API product management
+mentee,165,Cyrus Thompson,Curious about product marketing and brand management
+mentee,166,Tessa Brown,Interested in Agile frameworks and release planning
+mentee,167,Hugo Johnson,Wants to learn about UX/UI design principles and usability testing
+mentee,168,Nora Lee,Curious about product forecasting and financial modeling for products
+mentee,169,Atticus Chen,Interested in Agile at scale and portfolio management
+mentee,170,Skye Rodriguez,Wants to learn about product localization and international product strategy
+mentee,171,Lachlan Nguyen,Curious about customer feedback loops and NPS
+mentee,172,Willa Patel,Interested in product security and compliance requirements
+mentee,173,Quincy Taylor,Wants to learn about lean product development and MVP definition
+mentee,174,Beatrice Martin,Curious about product analytics tools and behavioral analytics
+mentee,175,Angus Wilson,Interested in enterprise product management and B2B product strategy
+mentee,176,Clementine Davis,Wants to learn about mobile app product management and app store optimization
+mentee,177,Otto Anderson,Curious about hardware product management and IoT product development
+mentee,178,Elodie Garcia,Interested in SaaS product management and subscription models
+mentee,179,Cassius Brown,Wants to learn about artificial intelligence in products and machine learning integration
+mentee,180,Saskia Thompson,Curious about blockchain product management and tokenomics
+mentee,181,Rudy Lee,Interested in voice user interface design and conversational AI products
+mentee,182,Sylvie Chen,Wants to learn about product accessibility and inclusive design
+mentee,183,Jude Wilson,Curious about gamification in products and user engagement strategies
+mentee,184,Marlowe Johnson,Interested in open-source product management and community-driven development
+mentee,185,Ziggy Nguyen,Wants to learn about e-commerce product management and conversion rate optimization
+mentee,186,Louisa Patel,Curious about fintech product management and financial regulations
+mentee,187,Dante Rodriguez,Interested in healthcare product management and HIPAA compliance
+mentee,188,Maeve Davis,Wants to learn about education technology product management and learning management systems
+mentee,189,Cosmo Martin,Curious about enterprise resource planning (ERP) products and supply chain management
+mentee,190,Cleo Anderson,Interested in customer relationship management (CRM) products and sales enablement
+mentee,191,Roscoe Wilson,Wants to learn about content management systems (CMS) and digital asset management
+mentee,192,Cecilia Thompson,Curious about cloud-based products and multi-tenant architecture
+mentee,193,Rafferty Brown,Interested in marketplace product management and two-sided platforms
+mentee,194,Frida Garcia,Wants to learn about augmented reality (AR) products and computer vision
+mentee,195,August Lee,Curious about virtual reality (VR) products and immersive experiences
+mentee,196,Indigo Chen,Interested in cybersecurity products and threat detection
+mentee,197,Ambrose Johnson,Wants to learn about data visualization products and business intelligence tools
+mentee,198,Celeste Taylor,Curious about geolocation-based products and mapping technologies
+mentee,199,Lucian Davis,Interested in social media products and viral growth strategies
+mentee,200,Imogen Wilson,Wants to learn about video streaming products and content delivery networks
+mentee,201,Ozzy Martinez,Curious about customer data platforms and data privacy compliance
+mentee,202,Eulalie Nguyen,Interested in productivity software and workflow automation
+mentee,203,Alistair Patel,Wants to learn about wearable technology products and fitness tracking
+mentee,204,Ottilie Brown,Curious about smart home products and home automation protocols
+mentee,205,Balthazar Thompson,Interested in music streaming products and recommendation algorithms
+mentee,206,Caspian Anderson,Wants to learn about travel technology products and booking engines
+mentee,207,Cordelia Lee,Curious about sports technology products and performance analytics
+mentee,208,Aurelius Garcia,Interested in fashion technology products and virtual try-on
+mentee,209,Persephone Wilson,Wants to learn about gaming product management and monetization strategies
+mentee,210,Leander Davis,Curious about product strategy and user experience design
+mentee,211,Ondine Johnson,Interested in market research and product roadmapping
+mentee,212,Lysander Chen,Wants to learn about product lifecycle management and A/B testing
+mentee,213,Hermione Martin,Curious about user story mapping and product analytics
+mentee,214,Caspian Rodriguez,Interested in product launch strategies and cross-functional team leadership
+mentee,215,Zenobia Thompson,Wants to learn about customer journey mapping and product positioning
+mentee,216,Zephyr Brown,Curious about feature prioritization and product metrics
+mentee,217,Opal Wilson,Interested in product vision and strategy
+mentee,218,Cassian Lee,Wants to learn about agile product management and OKRs
+mentee,219,Vesper Nguyen,Curious about design thinking and product growth strategies
+mentee,220,Quill Patel,Interested in user experience design and agile methodologies

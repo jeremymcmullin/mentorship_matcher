@@ -1,0 +1,41 @@
+type,id,name,expertise_or_interests
+mentor,1,John Smith,Product strategy, User experience design, Agile methodologies
+mentor,2,Emily Johnson,Market research, Product roadmapping, Stakeholder management
+mentor,3,Michael Chen,Product lifecycle management, A/B testing, Data-driven decision making
+mentor,4,Sarah Brown,User story mapping, Product analytics, Competitive analysis
+mentor,5,David Lee,Product launch strategies, Cross-functional team leadership, Scrum
+mentor,6,Lisa Wang,Customer journey mapping, Product positioning, Lean startup methodology
+mentor,7,Robert Taylor,Feature prioritization, Product metrics, Wireframing and prototyping
+mentor,8,Amanda Garcia,Product vision and strategy, User interviews, Product-market fit
+mentor,9,Kevin Patel,Agile product management, OKRs, Product backlog management
+mentor,10,Rachel Kim,Design thinking, Product growth strategies, User onboarding
+mentee,11,Alex Turner,Interested in product strategy and user experience design
+mentee,12,Olivia Martinez,Wants to learn about market research and product roadmapping
+mentee,13,Daniel Wong,Curious about product lifecycle management and A/B testing
+mentee,14,Sophia Lee,Interested in user story mapping and product analytics
+mentee,15,Ethan Brown,Wants to learn about product launch strategies and cross-functional team leadership
+mentee,16,Isabella Chen,Curious about customer journey mapping and product positioning
+mentee,17,Ryan Garcia,Interested in feature prioritization and product metrics
+mentee,18,Emma Davis,Wants to learn about product vision and strategy
+mentee,19,William Nguyen,Curious about agile product management and OKRs
+mentee,20,Ava Wilson,Interested in design thinking and product growth strategies
+mentee,21,Noah Thompson,Wants to learn about user experience design and agile methodologies
+mentee,22,Mia Anderson,Curious about stakeholder management and competitive analysis
+mentee,23,James Rodriguez,Interested in data-driven decision making and product analytics
+mentee,24,Charlotte Taylor,Wants to learn about scrum and product backlog management
+mentee,25,Benjamin Kim,Curious about lean startup methodology and product-market fit
+mentee,26,Amelia Clark,Interested in wireframing and prototyping
+mentee,27,Samuel Patel,Wants to learn about user interviews and user onboarding
+mentee,28,Evelyn Wright,Curious about product positioning and feature prioritization
+mentee,29,Christopher Lee,Interested in product metrics and competitive analysis
+mentee,30,Grace Harris,Wants to learn about agile product management and product roadmapping
+mentee,31,Andrew Jackson,Curious about product strategy and market research
+mentee,32,Zoe Campbell,Interested in user story mapping and product launch strategies
+mentee,33,Joseph Martin,Wants to learn about cross-functional team leadership and OKRs
+mentee,34,Lily Thompson,Curious about customer journey mapping and product growth strategies
+mentee,35,Matthew Davis,Interested in A/B testing and data-driven decision making
+mentee,36,Chloe Rodriguez,Wants to learn about product vision and strategy
+mentee,37,David Wilson,Curious about design thinking and user experience design
+mentee,38,Victoria Nguyen,Interested in product lifecycle management and agile methodologies
+mentee,39,Thomas Anderson,Wants to learn about stakeholder management and product positioning
+mentee,40,Penelope Kim,Curious about lean startup methodology and product metrics
